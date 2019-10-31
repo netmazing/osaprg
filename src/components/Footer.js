@@ -1,5 +1,5 @@
 import React from 'react';
-// import '../css/footer.css';
+import '../css/footer.css';
 // import {useStaticQuery} from 'gatsby';
 // import {graphql} from 'gatsby';
 // import LogoUS from '../images/logo-us.png';
