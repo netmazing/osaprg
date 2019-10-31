@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import AniLink from "gatsby-plugin-transition-link/AniLink"
-import "../css/navbar.css";
+// import "../css/navbar.css";
 import links from '../constants/links';
 
 const Navbar = () => {
