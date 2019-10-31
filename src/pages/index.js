@@ -6,10 +6,11 @@ import React from 'react';
 // import '../css/about.css';
 // import '../css/actions.css';
 // import SEO from '../components/SEO';
+import Navbar from '../components/Navbar';
 
 const index = () => {
   return (
-    <h1>ok</h1>
+    <Navbar/>
   )
 }
 export default index
