@@ -19,10 +19,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Socjologia i psychologia organizacji`,
-        short_name: `OSAP`,
-        description: `Interdyscyplinarny zespół badawczy`,
+        short_name: `Osap`,
         start_url: `/`,
-        lang: `pl`,
         background_color: `rgb(1, 135, 145)`,
         theme_color: `rgb(1, 135, 145)`,
         display: `minimal-ui`,
